@@ -1,7 +1,5 @@
 # MS-Rewards-Agent
-Programs designated for Microsoft Rewards
-
-Programs to automate Microsoft Rewards points
+Programs designated for Microsoft Rewards point automation.
 
 # 1: AutoSearcher
 
