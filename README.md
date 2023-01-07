@@ -3,7 +3,7 @@ Programs designated for Microsoft Rewards point automation.
 
 # 1: AutoSearcher
 
-Automatically searches 30 times to gain 90 points. **Be sure to unblock popups in the top right corner** (right side of search bar). *Note: Lag my cause fewer than 30 complete searches performed.*  
+Automatically searches 30 times to gain 90 points. **Be sure to unblock popups in the top right corner** (right side of search bar). *Note: Lag or network delay my cause fewer than 30 complete searches performed.*  
 
 This is made possible by searching random values and opening thirty different search links.  
 
